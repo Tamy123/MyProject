@@ -1,0 +1,19 @@
+.center {
+  text-align: center;
+}
+.mb10 {
+  margin-bottom: 10px;
+}
+
+img {
+  cursor: pointer;
+}
+
+.spacing {
+  margin-left: 35%;
+  margin-top: 13%;
+}
+
+.padding {
+  padding: 4px;
+}
